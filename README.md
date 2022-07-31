@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wahidmg
+- 👋 Hi, I’m Wahid MG, Undergraduate student in Computer Science stream. 
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science @ St Xavier's College , Burdwan
 - 💞️ I’m looking to collaborate on research in Data Science, MI, AI and Block Chain
